@@ -8,7 +8,7 @@ public class Car extends Vehicle{
 
     public static void main(String[] args) {
 
-        Car myCar = new Car();
+        Car myCar = new Car("green", "4");
 //        myCar.setColor("red");
 //        myCar.age = 40;
 //        myCar.numberOfSeats = "4";

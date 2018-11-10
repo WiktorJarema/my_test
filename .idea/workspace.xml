@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f8bde72-60f3-4c2a-8e7a-b2264e41f981" name="Default" comment="" />
+    <list default="true" id="0f8bde72-60f3-4c2a-8e7a-b2264e41f981" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wiktor_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Wiktor_myProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Car.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,13 +38,11 @@
       <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="e#173#174#0" expanded="true" />
                 <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,8 +51,8 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tests/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="120">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -75,7 +78,7 @@
       <file leaf-file-name="Dzien4WprowadzanieDanychMain4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests/Dzien4WprowadzanieDanychMain4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
@@ -84,16 +87,8 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="150">
               <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-              <folding>
-                <element signature="e#85#86#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -131,6 +126,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -172,34 +170,33 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="5" />
     <option name="y" value="340" />
     <option name="width" value="1221" />
     <option name="height" value="638" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Wiktor_projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wiktor_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Wiktor_myProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wiktor_myProjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Wiktor_projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wiktor_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Wiktor_myProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wiktor_myProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Wiktor_projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wiktor_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Wiktor_myProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wiktor_myProjects" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -208,6 +205,8 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,7 +235,7 @@
   <component name="RunManager" selected="Application.TestIsEmpty">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConnectionTest.Main1" />
-      <module name="Wiktor_projects" />
+      <module name="Wiktor_myProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -258,7 +257,7 @@
     </configuration>
     <configuration name="TestIsEmpty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tests.TestIsEmpty" />
-      <module name="Wiktor_projects" />
+      <module name="Wiktor_myProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -269,7 +268,7 @@
     </configuration>
     <configuration name="TestWatkow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MagnesikiZKodem_s549.TestWatkow" />
-      <module name="Wiktor_projects" />
+      <module name="Wiktor_myProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -280,7 +279,7 @@
     </configuration>
     <configuration name="ZapisDoPliku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operacje_na_plikach.ZapisDoPliku" />
-      <module name="Wiktor_projects" />
+      <module name="Wiktor_myProjects" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -374,11 +373,13 @@
       <workItem from="1541445282878" duration="3026000" />
       <workItem from="1541700460083" duration="1760000" />
       <workItem from="1541709554478" duration="5218000" />
+      <workItem from="1541883297693" duration="499000" />
+      <workItem from="1541883869651" duration="108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47488000" />
+    <option name="totallyTimeSpent" value="48095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="702" extended-state="6" />
@@ -393,11 +394,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.25218913" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21212122" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21818182" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -425,9 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
           <caret line="87" column="42" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -435,9 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -445,9 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,9 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,16 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tests/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="150">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tests/Dzien4WprowadzanieDanychMain4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
@@ -780,21 +761,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tests/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="e#173#174#0" expanded="true" />
             <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tests/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -850,11 +829,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Wiktor_projects</last-edited>
+          <last-edited>Wiktor_myProjects</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
